@@ -8,9 +8,9 @@ const profile = {
     location: "Montreal, QC",
     links: {
         github: "https://github.com/diatoufall",
-        linkedin: "https://linkedin.com/in/yourusername",
+        linkedin: "https://www.linkedin.com/in/diatou-fall-70614729a/",
         cv: "https://your-domain.com/cv.pdf",
-        calendly: "https://calendly.com/yourusername/30min",
+        calendly: "https://calendly.com/diatoufall278/30min",
     },
 };
 
