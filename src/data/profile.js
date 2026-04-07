@@ -9,7 +9,7 @@ const profile = {
     links: {
         github: "https://github.com/diatoufall",
         linkedin: "https://www.linkedin.com/in/diatou-fall-70614729a/",
-        cv: "https://your-domain.com/CVDIATOU.pdf",
+        cv: "/MONCVDIATOUFALL.pdf",
         calendly: "https://calendly.com/diatoufall278/30min",
     },
 };
